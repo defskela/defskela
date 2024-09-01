@@ -3,7 +3,7 @@
 ```txt
 Total Time: 134 hrs 57 mins
 
-Python           43 hrs 5 mins   ████████░░░░░░░░░░░░░░░░░   31.69 %
+Python           43 hrs 5 mins   ████████░░░░░░░░░░░░░░░░░   31.70 %
 TypeScript       39 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 %
 JavaScript       33 hrs 24 mins  ██████░░░░░░░░░░░░░░░░░░░   24.58 %
 HTML             6 hrs 53 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
